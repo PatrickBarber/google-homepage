@@ -1,0 +1,80 @@
+a{
+text-decoration: none;
+font-family: sans-serif;
+color: black;
+font-size: 13px;
+}
+#nav{
+float: right;
+margin-top: 0px;
+}
+
+#Gmail{
+padding: 10px;
+padding-top: 0px;
+}
+
+#Images{
+padding: 10px;
+padding-top: 0px;
+}
+
+#google-image{
+padding:10px;
+padding-top: 0px;
+width: 13px;
+height: 13px;
+}
+#google-image{
+margin-top: 50px;
+margin-left: 635px;
+height: 150px;
+width: 400px;
+margin-bottom: 0px;
+}
+
+#search-bar{
+margin-bottom: 20px;
+margin-left: 500px;
+width: 30%;
+height: 30px;
+
+}
+
+#google-search{
+width: 8%;
+margin-left: 600px;
+text-align: center;
+background-color: #f2f2f2;
+display: inline;
+border: 1px solid #f2f2f2;
+}
+
+#lucky{
+width: 8%;
+display: inline;
+text-align: center;
+background-color: #f2f2f2;
+border: 1px solid #f2f2f2;
+}
+
+#footer{
+position: absolute;
+width: 100%;
+bottom: 0px;
+border: 1px solid #e4e4e4;
+background-color: #f2f2f2;
+
+}
+
+.left{
+float: left;
+
+}
+
+.right{
+float: right;
+
+}
+
+
